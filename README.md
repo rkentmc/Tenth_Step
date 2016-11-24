@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Tenth_Step
+Rails based journal log app
+>>>>>>> d34aa83e1b4bd92251b706ec40167f0126e16027
